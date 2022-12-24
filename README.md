@@ -1,2 +1,3 @@
 # tiktokcrawler
-Tiktok video crawler
+Simple Tiktok Video Tiktok Crawler
+- You must know the account you want to crawl
